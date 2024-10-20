@@ -127,3 +127,22 @@ nav ul{
     margin-top: 130px;
     margin-bottom: 130px;
  }
+ /* resume section styles */
+ .resume-container{
+    display: flex;
+    gap: 24px;
+ }
+ .experience-description, .experience-sub-title{
+    color: #757575;
+ }
+ .experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume-download-CV{
+    margin-top: 50px;
+}
